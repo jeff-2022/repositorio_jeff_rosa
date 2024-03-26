@@ -1,0 +1,7 @@
+<?php
+
+
+echo "' -- fim do sofrimento--'' ;
+
+
+?>
